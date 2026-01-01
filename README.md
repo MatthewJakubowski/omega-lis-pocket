@@ -54,10 +54,10 @@
 ## 📸 Screenshots
 
 *(Place your screenshot of the dashboard here)*
-![Dashboard Preview](path_to_your_image.jpg)
+![Dashboard Preview](https://github.com/MatthewJakubowski/omega-lis-pocket/blob/main/Dashboard.jpg)
 
 *(Place your screenshot of the PDF here)*
-![PDF Report](path_to_your_pdf_image.jpg)
+![PDF Report](https://github.com/MatthewJakubowski/omega-lis-pocket/blob/main/PDF.jpg)
 
 ## 📦 Installation & Usage
 
